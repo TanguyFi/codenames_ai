@@ -1,0 +1,7 @@
+gensim
+ipykernel
+numpy
+scikit-learn
+plotly
+pandas
+nbformat
